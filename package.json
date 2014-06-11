@@ -31,7 +31,8 @@
     "xml2js": "~0.4.4",
     "jsdom": "~0.10.6",
     "sandbox": "~0.8.5",
-    "htmlparser": "~1.7.7"
+    "htmlparser": "~1.7.7",
+    "cheerio": "~0.17.0"
   },
   "engines": {
     "node": ">= 0.8.x",
